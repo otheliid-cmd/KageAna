@@ -1,3 +1,4 @@
 # KageAna
 game pedagang-ninja <br>
-Dibuat dengan Gemini 4 Argon
+Dibuat dengan Gemini 4 Argon <br>
+Belajar Demonstrasi
